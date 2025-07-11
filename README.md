@@ -89,7 +89,7 @@ I’m actively growing into roles such as:
 ## 📬 Let’s Connect
 
 📧 [motimaK02@gmail.com](mailto:motimak02@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/kabelo-motima)  
+🔗 [[LinkedIn](https://www.linkedin.com/in/kabelo-motima)](https://www.linkedin.com/in/kabelo-motima)  
 💻 [GitHub Portfolio](https://github.com/Motimak)
 
 ---
