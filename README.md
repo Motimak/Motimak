@@ -55,7 +55,7 @@ Projects: ASP.NET, UiPath, SQL Server, Power BI
   Developed a full-stack MVC web app with CRUD features and Azure SQL hosting  
   - Implemented controller logic, service layers, and Entity Framework  
   - Integrated API testing and deployment using GitHub & Azure  
-  [CMPG Project Repository](https://github.com/Motimak/aspnet-crud-project)
+  [CMPG Project Repository](https://github.com/Motimak/CMPG-323-Project2-35704667)
 
 - 🟩 **UiPath RPA Automation – UAT Web Tester**  
   Automated User Acceptance Testing using UiPath  
