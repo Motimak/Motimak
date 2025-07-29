@@ -49,7 +49,7 @@ Projects: ASP.NET, UiPath, SQL Server, Power BI
   - Built semantic models, DAX calculations, and time intelligence functions  
   - Designed advanced reports using drillthroughs, bookmarks, and Q&A  
   - Created fully interactive dashboards published to Power BI Service  
-  [PL-300 Labs Repository](https://github.com/Motimak/pl300-powerbi-labs)
+  [PL-300 Labs Repository]([https://github.com/Motimak/pl300-powerbi-labs](https://github.com/Motimak/Power-BI_project)
 
 - 🟦 **CMPG 323 – ASP.NET Core Project Manager**  
   Developed a full-stack MVC web app with CRUD features and Azure SQL hosting  
