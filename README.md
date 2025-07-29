@@ -61,7 +61,7 @@ Projects: ASP.NET, UiPath, SQL Server, Power BI
   Automated User Acceptance Testing using UiPath  
   - Read test cases from Excel and executed form entries in a web app  
   - Logged results and generated test outcome reports  
-  [UiPath Web Automation](https://github.com/Motimak/uipath-web-automation)
+  [UiPath Web Automation](https://github.com/Motimak/CMPG-323-Project-4-35704667)
 
 ---
 
