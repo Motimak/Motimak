@@ -66,7 +66,8 @@ Projects: ASP.NET, UiPath, SQL Server, Power BI
 - 🟥 **Microsoft Fabric Report – Automation Savings**  
 Created a professional Power BI report using Microsoft Fabric to track automation time and cost savings by client and project  
 - Implemented decomposition trees, anomaly detection, and smart narratives  
-- Published securely via Fabric workspace with source control via GitHub 
+- Published securely via Fabric workspace with source control via GitHub
+- https://github.com/Motimak/Microsoft-Fabric-lakehouse
 
 ---
 
