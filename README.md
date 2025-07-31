@@ -51,6 +51,16 @@ Projects: ASP.NET, UiPath, SQL Server, Power BI
   - Created fully interactive dashboards published to Power BI Service  
   [PL-300 Labs Repository]([https://github.com/Motimak/pl300-powerbi-labs](https://github.com/Motimak/Power-BI_project)
 
+- 🟪 **NWU Tech Trends Benefit Realisation Report – CMPG 323 Project 5**  
+  Designed a professional Power BI report to visualize and track automation-driven time and cost savings across clients and projects  
+  - Created clean, interactive reports with slicers and filters  
+  - Modeled data using advanced DAX to calculate key metrics  
+  - Added AI-driven visuals: anomaly detection, decomposition trees, smart narratives  
+  - Included report pages for high-level KPIs, project tracking, and client monitoring  
+  - Published to Power BI Service with secure access and GitHub version control  
+  [CMPG 323 Project 5 Repository](https://github.com/Motimak/CMPG-323-Project5-35704667)
+
+
 - 🟦 **CMPG 323 – ASP.NET Core Project Manager**  
   Developed a full-stack MVC web app with CRUD features and Azure SQL hosting  
   - Implemented controller logic, service layers, and Entity Framework  
@@ -80,7 +90,7 @@ I’m actively growing into roles such as:
 - ⚙️ IT Engineer – Ensuring seamless infrastructure for digital systems
 - 📈 Project Contributor – Helping startups and teams succeed through tech
 
----
+
 
 ## 🧠 Soft Skills
 
