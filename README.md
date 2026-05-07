@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kabelo Motima
+# Hi, I'm Kabelo Motima
 
 **DATA ANALYST | DATA ENGINEER**  
 
